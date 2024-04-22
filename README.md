@@ -15,3 +15,7 @@ AMQP adalah singkatan dari Advanced Message Queuing Protocol. AMQP adalah standa
 5 message, Setiap message adalah sebuah event UserCreatedEventMessage yang berisi user_id dan user_name yang unik untuk setiap pesan. <br>
 2. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean? <br>
 Jika URL "amqp://guest:guest@localhost:5672" digunakan baik dalam program pengirim maupun penerima (pelanggan), itu berarti bahwa baik pengirim (pengirim) maupun penerima (pelanggan) pesan terhubung ke broker AMQP yang sama, yang dihosting di mesin lokal ('localhost') menggunakan kredensial yang sama (nama pengguna "guest" dan kata sandi "guest") dan port AMQP standar (5672).
+
+*RabbitMQ*
+
+![RabbitMQ](https://media.discordapp.net/attachments/784424703447400489/1232028210926059671/rabbitmq.png?ex=6627f72f&is=6626a5af&hm=f336b2c080b997173436262cb461e04a450239faa5641528558f953d9d2b2583&=&format=webp&quality=lossless&width=1193&height=671)
