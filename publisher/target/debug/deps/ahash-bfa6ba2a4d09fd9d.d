@@ -1,0 +1,10 @@
+C:\Users\Legion\OneDrive\Documents\VSCODE\ADPRO\tutorial8\publisher\target\debug\deps\libahash-bfa6ba2a4d09fd9d.rmeta: C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src/lib.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\convert.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\fallback_hash.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\operations.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\random_state.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\specialize.rs
+
+C:\Users\Legion\OneDrive\Documents\VSCODE\ADPRO\tutorial8\publisher\target\debug\deps\ahash-bfa6ba2a4d09fd9d.d: C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src/lib.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\convert.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\fallback_hash.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\operations.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\random_state.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\specialize.rs
+
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src/lib.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\convert.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\fallback_hash.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\operations.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\random_state.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\specialize.rs:

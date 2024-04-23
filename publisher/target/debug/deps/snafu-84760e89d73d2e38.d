@@ -1,0 +1,12 @@
+C:\Users\Legion\OneDrive\Documents\VSCODE\ADPRO\tutorial8\publisher\target\debug\deps\libsnafu-84760e89d73d2e38.rmeta: C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md
+
+C:\Users\Legion\OneDrive\Documents\VSCODE\ADPRO\tutorial8\publisher\target\debug\deps\snafu-84760e89d73d2e38.d: C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md
+
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md:
+C:\Users\Legion\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md:
