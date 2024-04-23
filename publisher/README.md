@@ -11,3 +11,6 @@ Jika URL "amqp://guest:guest@localhost:5672" digunakan baik dalam program pengir
 ![CargoRun](https://media.discordapp.net/attachments/784424703447400489/1232325327741780001/cargoRunSubs.png?ex=66290be5&is=6627ba65&hm=1bf1f087821abeca4700e19f41d586792d6653892842009480bc49f71267189d&=&format=webp&quality=lossless&width=1253&height=671)
 
 Berdasarkan screenshots, dijalankan program subscriber lalu menjalankan program publisher. Kemudian memeriksa terminal pada program subscriber. Pada terminal program subscriber, dapat dilihat bahwa berhasil menerima 5 message sesuai yang dikirimkan pada program publisher. Dapat dilihat juga bahwa queued messagesnya 0, hal ini karena program ayng dijalankan hanya 1 dan cukup kecil.
+
+![CargoRun2](https://media.discordapp.net/attachments/784424703447400489/1232329014551646208/image.png?ex=66290f54&is=6627bdd4&hm=3b31bbe1e2922c80fa7193bd9a625fe0c72f8d529b31c85ca922140727421ddd&=&format=webp&quality=lossless&width=1248&height=670)
+Berdasarkan screenshot, dapat dilihat bahwa terdapat spike yang muncul. Spike tersebut menandakan bahwa program publisher dijalankan. Spiking terjadi karena pengiriman request "cargo run" berkali-kali pada directory publisher. cargo run sendiri digunakan untuk menjalankan program. Maka dari itu, implikasinya adalah terjadi spiking pada message rates.
