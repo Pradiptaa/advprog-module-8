@@ -9,3 +9,8 @@ AMQP adalah singkatan dari Advanced Message Queuing Protocol. AMQP adalah standa
 - 'guest' kedua adalah kata sandi yang terkait dengan nama pengguna. Dalam hal ini, kata sandi juga adalah "guest".
 - localhost:5672 merujuk ke komputer lokal tempat layanan perpesanan berjalan dan nomor port di mana layanan AMQP mendengarkan.
 <br> <br>
+
+![CargoRun](https://media.discordapp.net/attachments/784424703447400489/1232331447876980807/image.png?ex=66291198&is=6627c018&hm=80f81cf62fbfab0ff3bd2f15f0c645114139e7a8b77f8e5eba72d1a5bd903d39&=&format=webp&quality=lossless&width=1250&height=671)
+
+Berdasarkan gambar, terdapat 10 queued messages. Hal ini terjadi karena "cargo run" pada publisher terkirim sebanyak 3 kali. Karena program publisher akan mengirimkan 5 data ke message broker dalam sekali run. Kemudian, karena yang queued ada 2 program publisher, sehingga queued messagesnya menjadi 2*5=10.
+
